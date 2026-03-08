@@ -1,31 +1,69 @@
-<div align="center"><img src="https://files.catbox.moe/olz8o7.png" width="900"/>⚡ BIHAR KE BAHUBALI MUSIC BOT
+<div align="center"><img src="https://files.catbox.moe/olz8o7.png" width="900"/>🎧 BIHAR KE BAHUBALI MUSIC BOT
 
-🎧 A Powerful Telegram Voice Chat Music Streaming Engine
+Telegram Voice Chat Music Streaming Bot
 
-</div>---
+<img src="https://img.shields.io/github/stars/Biharkebahubali/Bihari-Telegram-Music-Bot?style=for-the-badge&logo=github&color=yellow"/>
+<img src="https://img.shields.io/github/forks/Biharkebahubali/Bihari-Telegram-Music-Bot?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/Platform-Telegram-blue?style=for-the-badge&logo=telegram"/></div>---
 
-🚀 Welcome
+⚡ What This Bot Does
 
-Some bots just reply to commands.
-Some bots play music.
+Stream music and video directly in Telegram voice chats.
 
-But this one…
+Just type:
 
-Runs the entire stage.
+/play song name
 
-Bihar Ke Bahubali Music Bot turns a Telegram group voice chat into a live music streaming system.
-
-One command.
-
-/play song_name
-
-And the whole voice chat becomes a live music room.
+And the bot will start playing music in your group voice chat.
 
 ---
 
-🔥 Why This Bot Is Different
+🔥 Features
 
-This project isn't built just to play songs.
+- 🎧 High Quality Music Streaming
+- 🎬 Video Playback Support
+- ⚡ Fast Queue System
+- 🌍 Play Music From Multiple Platforms
+- 👮 Admin Control Commands
+
+---
+
+🚀 Quick Installation
+
+Clone the repository
+
+git clone https://github.com/Biharkebahubali/Bihari-Telegram-Music-Bot.git
+
+Enter the folder
+
+cd Bihari-Telegram-Music-Bot
+
+Install requirements
+
+pip install -U -r requirements.txt
+
+Run the bot
+
+bash start
+
+---
+
+🎛 Commands
+
+Command| Action
+/play| Play music
+/vplay| Play video
+/pause| Pause
+/resume| Resume
+/skip| Skip
+/stop| Stop music
+
+---
+
+<div align="center">⭐ If you like the project, give it a star
+
+</div>rents project isn't built just to play songs.
 
 It is designed to deliver:
 
@@ -520,6 +558,7 @@ BIHAR KE BAHUBALI PROJECT
 <div align="center">⭐ Agar project pasand aaye to repo ko star zaroor dena
 
 </div>
+
 
 
 
