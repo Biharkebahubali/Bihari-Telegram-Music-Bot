@@ -1,34 +1,116 @@
-<div align="center"><img src="https://files.catbox.moe/olz8o7.png" width="100%"/><h1>BIHAR KE BAHUBALI MUSIC BOT</h1><p><b>Powerful Telegram Voice Chat Music Streaming Bot</b></p><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00FF00&center=true&vCenter=true&width=700&lines=POWERFUL+TELEGRAM+MUSIC+BOT;STREAM+MUSIC+IN+VOICE+CHAT;MADE+WITH+PYTHON;POWERED+BY+BIHAR+KE+BAHUBALI"/><br><img src="https://img.shields.io/github/stars/Biharkebahubali/Bihari-Telegram-Music-Bot?style=for-the-badge&logo=github&color=yellow"/>
+<div align="center"><img src="https://files.catbox.moe/olz8o7.png" width="100%"/>🔥 BIHAR KE BAHUBALI MUSIC BOT 🔥
+
+🎧 The Most Powerful Telegram Voice Chat Music Bot
+
+<img src="https://img.shields.io/github/stars/Biharkebahubali/Bihari-Telegram-Music-Bot?style=for-the-badge&logo=github&color=yellow"/>
 <img src="https://img.shields.io/github/forks/Biharkebahubali/Bihari-Telegram-Music-Bot?style=for-the-badge&logo=github"/>
 <img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python"/>
 <img src="https://img.shields.io/badge/Telegram-MusicBot-blue?style=for-the-badge&logo=telegram"/><br><br>
 
 <a href="https://t.me/biharkebahubalimusic_bot">
-<img src="https://img.shields.io/badge/START%20BOT-2CA5E0?style=for-the-badge&logo=telegram"/>
-</a><a href="https://t.me/biharipleasehelpme_bot">
-<img src="https://img.shields.io/badge/MESSAGE%20SUPPORT-black?style=for-the-badge&logo=telegram"/>
+<img src="https://img.shields.io/badge/START%20THE%20BOT-2CA5E0?style=for-the-badge&logo=telegram"/>
 </a><a href="https://t.me/+YPzfRgZy_6Y5NDQ1">
-<img src="https://img.shields.io/badge/JOIN%20CHANNEL-red?style=for-the-badge&logo=telegram"/>
+<img src="https://img.shields.io/badge/JOIN%20UPDATES%20CHANNEL-red?style=for-the-badge&logo=telegram"/>
+</a><a href="https://t.me/biharipleasehelpme_bot">
+<img src="https://img.shields.io/badge/CONTACT%20OWNER-black?style=for-the-badge&logo=telegram"/>
 </a></div>---
 
-<div align="center"><img src="https://files.catbox.moe/twcqw5.jpg" width="650"/></div>---
+🚀 About The Bot
 
-About This Project
+Bihar Ke Bahubali Music Bot ek powerful Telegram bot hai jo voice chat me high quality music aur video stream karta hai.
 
-BIHAR KE BAHUBALI MUSIC BOT is a high-performance Telegram music streaming bot that can play audio and video directly inside Telegram voice chats.
-
-Built using Python, Pyrogram and PyTgCalls, the bot provides smooth playback with advanced queue management.
-
-«⚡ “Jahan Bihar ka naam aaye, wahan power automatic badh jata hai.”»
+Ye bot Python, Pyrogram aur PyTgCalls par based hai aur fast, stable aur high performance streaming provide karta hai.
 
 ---
 
-Features
+⚡ Bahubali Features
 
-- 🎧 High Quality Voice Chat Music Streaming
-- 📺 Video Playback Support
-- 🎶 Playlist Support
-- 📀 Advanced Queue System
+🔥 High Quality Voice Chat Music
+🎬 Video Streaming Support
+🎵 YouTube Direct Play
+📜 Smart Queue System
+🎧 Playlist Support
+⚡ Super Fast Streaming
+👮 Admin Control Commands
+
+---
+
+🎶 Supported Platforms
+
+Bot in platforms se music play kar sakta hai:
+
+- YouTube
+- Spotify
+- SoundCloud
+- Apple Music
+- Resso
+- Direct Audio Links
+
+---
+
+🧾 Commands
+
+Command| Work
+/play| Music play kare
+/vplay| Video play kare
+/pause| Music pause
+/resume| Resume playback
+/skip| Next track
+/stop| Music stop
+/queue| Playlist dikhaye
+
+---
+
+🛠 Installation Guide
+
+1️⃣ Clone Repository
+
+git clone https://github.com/Biharkebahubali/Bihari-Telegram-Music-Bot.git
+cd Bihari-Telegram-Music-Bot
+
+2️⃣ Install Requirements
+
+pip install -U -r requirements.txt
+
+3️⃣ Setup Environment
+
+Rename file:
+
+sample.env → .env
+
+Fill values:
+
+API_ID=
+API_HASH=
+BOT_TOKEN=
+OWNER_ID=
+LOGGER_ID=
+MONGO_DB_URI=
+SESSION=
+
+4️⃣ Start Bot
+
+bash start
+
+---
+
+👑 Owner
+
+<div align="center"><img src="https://files.catbox.moe/gkg963.png" width="140"/>CODE BREAKER
+
+Creator of Bihar Ke Bahubali Music Bot
+
+</div>---
+
+⭐ Support The Project
+
+Agar bot pasand aaye to repo ko ⭐ star zaroor kare.
+
+---
+
+<div align="center">🔥 Made With Love From Bihar 🔥
+
+</div>- 📀 Advanced Queue System
 - 🔁 Auto Play
 - 🔍 YouTube Search Play
 - 📡 Direct Link Streaming
@@ -549,6 +631,7 @@ This project is licensed under the <b>MIT License</b> — see <a href="https://g
 ⭐ Enjoying the tunes? <b>Star the repo</b> — feedback keeps the rhythm going!
 
 </div>
+
 
 
 
