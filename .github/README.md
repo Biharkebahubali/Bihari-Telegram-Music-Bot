@@ -1,65 +1,93 @@
 <div align="center">🎧 BIHAR KE BAHUBALI MUSIC BOT
 
-⚡ Powerful Telegram Voice Chat Music Bot
+⚡ Ultra Fast Telegram Voice Chat Music Bot
 
-Stream high-quality music and video directly in Telegram group voice chats.
-
-<img src="https://img.shields.io/github/stars/Biharkebahubali/Bihari-Telegram-Music-Bot?style=for-the-badge&logo=github&color=yellow"/>
+<p align="center">
+Stream High Quality Music & Video directly into Telegram Voice Chats
+</p><img src="https://files.catbox.moe/650wa9.png" width="850"><br><img src="https://img.shields.io/github/stars/Biharkebahubali/Bihari-Telegram-Music-Bot?style=for-the-badge&logo=github&color=yellow"/>
 <img src="https://img.shields.io/github/forks/Biharkebahubali/Bihari-Telegram-Music-Bot?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Written%20in-Python-blue?style=for-the-badge&logo=python"/><br><img src="https://files.catbox.moe/650wa9.png" width="700"></div>---
+<img src="https://img.shields.io/github/issues/Biharkebahubali/Bihari-Telegram-Music-Bot?style=for-the-badge"/>
+<img src="https://img.shields.io/github/license/Biharkebahubali/Bihari-Telegram-Music-Bot?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Written%20In-Python-blue?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/Platform-Telegram-blue?style=for-the-badge&logo=telegram"/></div>---
 
-🚀 About The Bot
+🧠 About The Project
 
-Bihar Ke Bahubali Music Bot is a powerful Telegram bot that streams music and video directly in Telegram group voice chats with low latency.
+Bihar Ke Bahubali Music Bot is a powerful Telegram Voice Chat Streaming Bot that allows users to stream high-quality music and video directly in Telegram group voice chats.
 
-Built using Python, Pyrogram and PyTgCalls, this bot supports multiple music platforms and provides stable high-quality streaming.
+The bot is built using modern technologies like:
 
----
+- Python
+- Pyrogram
+- PyTgCalls
+- FFmpeg
+- MongoDB
 
-🔥 Features
-
-- 🎧 High-quality audio streaming in Telegram voice chats
-- 🎬 Video playback support
-- 🌐 Play music from YouTube, Spotify, SoundCloud and more
-- ⚡ Advanced queue system with autoplay
-- 📜 Playlist support
-- 🛠 Easy deployment on Local, VPS or Cloud
-- 👮 Admin control commands
+This bot provides low latency streaming, advanced queue system, and multi-platform music support.
 
 ---
 
-🌍 Supported Platforms
+🔥 Key Features
 
-This bot can play music from:
+✨ Ultra fast streaming
 
-- YouTube
-- Spotify
-- SoundCloud
-- Apple Music
-- Resso
-- Direct audio links
+🎧 High quality audio playback
+
+🎬 Video streaming support
+
+⚡ Smart queue system
+
+📜 Playlist support
+
+🌍 Multi-platform music support
+
+👮 Admin control commands
+
+🔁 Autoplay next song
+
+📊 Stable and optimized performance
 
 ---
 
-🛠 Installation
+🌍 Supported Music Platforms
+
+Platform| Supported
+YouTube| ✅
+Spotify| ✅
+SoundCloud| ✅
+Apple Music| ✅
+Resso| ✅
+Direct Audio Links| ✅
+
+---
+
+📸 Preview
+
+<div align="center"><img src="https://files.catbox.moe/650wa9.png" width="800"></div>---
+
+⚡ Installation Guide
 
 1️⃣ Clone Repository
 
 git clone https://github.com/Biharkebahubali/Bihari-Telegram-Music-Bot.git
+
 cd Bihari-Telegram-Music-Bot
 
-2️⃣ Install Dependencies
+---
+
+2️⃣ Install Requirements
 
 pip install -U -r requirements.txt
 
+---
+
 3️⃣ Setup Environment Variables
 
-Rename:
+Rename
 
 sample.env → .env
 
-Example configuration:
+Then configure your environment variables:
 
 API_ID=123456
 API_HASH=abcdef123456
@@ -71,22 +99,22 @@ SESSION=SESSION_STRING
 
 ---
 
-⚡ Run The Bot
+🚀 Run The Bot
 
 bash start
 
-Bot will start and begin streaming music in Telegram voice chats.
+The bot will start and begin streaming music in Telegram voice chats.
 
 ---
 
-🎛 Commands
+🎛 Bot Commands
 
 Command| Function
 /play| Play music
 /vplay| Play video
 /pause| Pause playback
 /resume| Resume playback
-/skip| Skip track
+/skip| Skip current track
 /stop| Stop music
 /queue| Show playlist
 
@@ -94,19 +122,19 @@ Command| Function
 
 🤝 Contributing
 
-Contributions are welcome.
+Contributions are welcome!
 
 1. Fork the repository
 2. Create your feature branch
 3. Commit your changes
-4. Push to the branch
+4. Push your branch
 5. Create a Pull Request
 
 ---
 
 📜 License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License
 
 ---
 
@@ -114,7 +142,7 @@ This project is licensed under the MIT License.
 
 <div align="center">Code Breaker
 
-Founder of Bihar Ke Bahubali Music Bot
+Founder of BIHAR KE BAHUBALI MUSIC BOT
 
 Made with ❤️ in Bihar
 
