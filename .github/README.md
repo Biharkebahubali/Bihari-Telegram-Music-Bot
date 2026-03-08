@@ -2,31 +2,82 @@
 
 Telegram Voice Chat Music Streaming Bot
 
-<img src="https://img.shields.io/github/stars/Biharkebahubali/Bihari-Telegram-Music-Bot?style=for-the-badge&logo=github&color=yellow"/>
+<br><a href="https://t.me/biharkebahubalimusic_bot">
+<img src="https://img.shields.io/badge/START BOT-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a><a href="https://t.me/+YPzfRgZy_6Y5NDQ1">
+<img src="https://img.shields.io/badge/JOIN SUPPORT GROUP-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a><a href="https://t.me/julmi8936">
+<img src="https://img.shields.io/badge/CONTACT OWNER-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a><a href="https://www.instagram.com/vikram_laheri_?igsh=MTZha3M2Z3FnMGhs">
+<img src="https://img.shields.io/badge/FOLLOW INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a><br><br>
+
+<img src="https://img.shields.io/github/stars/Biharkebahubali/Bihari-Telegram-Music-Bot?style=for-the-badge&logo=github"/>
 <img src="https://img.shields.io/github/forks/Biharkebahubali/Bihari-Telegram-Music-Bot?style=for-the-badge&logo=github"/>
 <img src="https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge&logo=python"/>
 <img src="https://img.shields.io/badge/Platform-Telegram-blue?style=for-the-badge&logo=telegram"/></div>---
 
 ⚡ What This Bot Does
 
-Stream music and video directly in Telegram voice chats.
+Play music and video directly in Telegram voice chats.
 
 Just type:
 
 /play song name
 
-And the bot will start playing music in your group voice chat.
+And the bot will start playing music in your voice chat.
 
 ---
 
 🔥 Features
 
-- 🎧 High Quality Music Streaming
-- 🎬 Video Playback Support
-- ⚡ Fast Queue System
-- 🌍 Play Music From Multiple Platforms
-- 👮 Admin Control Commands
+🎧 High quality music streaming
 
+🎬 Video playback support
+
+⚡ Fast queue system
+
+🌍 Play from multiple platforms
+
+👮 Admin control commands
+
+---
+
+🚀 Quick Setup
+
+Clone repository
+
+git clone https://github.com/Biharkebahubali/Bihari-Telegram-Music-Bot.git
+
+Enter folder
+
+cd Bihari-Telegram-Music-Bot
+
+Install requirements
+
+pip install -U -r requirements.txt
+
+Run the bot
+
+bash start
+
+---
+
+🎛 Commands
+
+Command| Function
+/play| Play music
+/vplay| Play video
+/pause| Pause
+/resume| Resume
+/skip| Skip
+/stop| Stop music
+
+---
+
+<div align="center">⭐ If you like this project please give it a star
+
+</div>
 ---
 
 🚀 Quick Installation
@@ -558,6 +609,7 @@ BIHAR KE BAHUBALI PROJECT
 <div align="center">⭐ Agar project pasand aaye to repo ko star zaroor dena
 
 </div>
+
 
 
 
