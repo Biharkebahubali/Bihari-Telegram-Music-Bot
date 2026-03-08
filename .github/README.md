@@ -1,29 +1,135 @@
-<div align="center"><img src="https://files.catbox.moe/olz8o7.png" width="900">⚡ BIHAR KE BAHUBALI MUSIC BOT ⚡
+<div align="center"><img src="https://files.catbox.moe/olz8o7.png" width="850">⚡ BIHAR KE BAHUBALI TELEGRAM MUSIC BOT
 
-🎧 Telegram Voice Chat Music Streaming Engine
+🎧 High Performance Telegram Voice Chat Streaming Bot
 
 </div>---
 
-🧠 Project Ka Sach
+🚀 Introduction
 
-Bhai ye koi normal Telegram bot nahi hai...
+Bihar Ke Bahubali Music Bot is a powerful Telegram bot designed to stream music directly inside Telegram group voice chats.
 
-Ye hai BIHAR KE BAHUBALI MUSIC ENGINE
-Jo Telegram ke Voice Chat ko ek live music stage bana deta hai.
+The bot provides high quality audio streaming, multi-platform music support and smooth playback performance.
 
-Group me voice chat chalu karo
-aur command do:
-
-/play song_name
-
-Aur bas...
-
-Music hawa me ghoomta hua sabke speakers tak pahunch jayega.
+It is built using modern technologies like Python, Pyrogram, PyTgCalls and FFmpeg.
 
 ---
 
-🔥 Thoda Bihari Andaz
+🔥 Core Features
 
+- 🎧 High Quality Music Streaming
+- 🎬 Video Streaming Support
+- ⚡ Fast Playback Engine
+- 🌍 Multi Platform Music Sources
+- 📜 Smart Queue System
+- 🔁 Automatic Next Track
+- 👮 Admin Control Commands
+
+---
+
+🌐 Supported Music Platforms
+
+Platform| Support
+YouTube| ✔
+Spotify| ✔
+SoundCloud| ✔
+Apple Music| ✔
+Resso| ✔
+Direct Audio Links| ✔
+
+---
+
+⚙ System Requirements
+
+Before running the bot make sure you have:
+
+- Python 3.9+
+- FFmpeg Installed
+- MongoDB Database
+- Telegram API Credentials
+
+---
+
+📦 Installation
+
+Clone the repository:
+
+git clone https://github.com/Biharkebahubali/Bihari-Telegram-Music-Bot.git
+
+Move to project folder:
+
+cd Bihari-Telegram-Music-Bot
+
+Install dependencies:
+
+pip install -U -r requirements.txt
+
+---
+
+🔑 Configuration
+
+Rename environment file:
+
+sample.env → .env
+
+Add your credentials:
+
+API_ID=your_api_id
+API_HASH=your_api_hash
+BOT_TOKEN=your_bot_token
+OWNER_ID=your_telegram_id
+LOGGER_ID=log_group_id
+MONGO_URL=mongodb_url
+SESSION=session_string
+
+---
+
+▶ Run The Bot
+
+bash start
+
+After starting, the bot will begin streaming music inside Telegram voice chats.
+
+---
+
+🎛 Available Commands
+
+Command| Function
+/play| Play music
+/vplay| Play video
+/pause| Pause playback
+/resume| Resume playback
+/skip| Skip current track
+/stop| Stop music
+/queue| Show playlist
+
+---
+
+📂 Project Structure
+
+Bihari-Telegram-Music-Bot
+│
+├── bot
+├── plugins
+├── config
+├── utils
+├── database
+└── start
+
+---
+
+👨‍💻 Developer
+
+Vikram Laheri
+
+Founder of Bihar Ke Bahubali Project
+
+Location: Bihar, India
+
+---
+
+<div align="center">⭐ If you like this project, please give it a star.
+
+</div>
 «Naam hai Bahubali...
 System ko hilane ka kaam karta hai.»
 
@@ -320,4 +426,5 @@ BIHAR KE BAHUBALI PROJECT
 <div align="center">⭐ Agar project pasand aaye to repo ko star zaroor dena
 
 </div>
+
 
