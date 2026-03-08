@@ -1,4 +1,4 @@
-<div align="center"><img src="https://files.catbox.moe/olz8o7.png" width="100%"/><h1>BIHAR KE BAHUBALI MUSIC BOT</h1><p>High Quality Telegram Voice Chat Music Streaming Bot</p><br><img src="https://img.shields.io/github/stars/Biharkebahubali/Bihari-Telegram-Music-Bot?style=for-the-badge&logo=github"/>
+<div align="center"><img src="https://files.catbox.moe/olz8o7.png" width="100%"/><h1>BIHAR KE BAHUBALI MUSIC BOT</h1><p><b>Powerful Telegram Voice Chat Music Streaming Bot</b></p><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00FF00&center=true&vCenter=true&width=700&lines=POWERFUL+TELEGRAM+MUSIC+BOT;STREAM+MUSIC+IN+VOICE+CHAT;MADE+WITH+PYTHON;POWERED+BY+BIHAR+KE+BAHUBALI"/><br><img src="https://img.shields.io/github/stars/Biharkebahubali/Bihari-Telegram-Music-Bot?style=for-the-badge&logo=github&color=yellow"/>
 <img src="https://img.shields.io/github/forks/Biharkebahubali/Bihari-Telegram-Music-Bot?style=for-the-badge&logo=github"/>
 <img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python"/>
 <img src="https://img.shields.io/badge/Telegram-MusicBot-blue?style=for-the-badge&logo=telegram"/><br><br>
@@ -6,17 +6,109 @@
 <a href="https://t.me/biharkebahubalimusic_bot">
 <img src="https://img.shields.io/badge/START%20BOT-2CA5E0?style=for-the-badge&logo=telegram"/>
 </a><a href="https://t.me/biharipleasehelpme_bot">
-<img src="https://img.shields.io/badge/CONTACT%20SUPPORT-000000?style=for-the-badge&logo=telegram"/>
+<img src="https://img.shields.io/badge/MESSAGE%20SUPPORT-black?style=for-the-badge&logo=telegram"/>
 </a><a href="https://t.me/+YPzfRgZy_6Y5NDQ1">
-<img src="https://img.shields.io/badge/UPDATES%20CHANNEL-red?style=for-the-badge&logo=telegram"/>
+<img src="https://img.shields.io/badge/JOIN%20CHANNEL-red?style=for-the-badge&logo=telegram"/>
 </a></div>---
 
-<div align="center"><img src="https://files.catbox.moe/twcqw5.jpg" width="700"/></div>---
+<div align="center"><img src="https://files.catbox.moe/twcqw5.jpg" width="650"/></div>---
 
-About The Project
+About This Project
 
-BIHAR KE BAHUBALI MUSIC BOT is a powerful Telegram music bot capable of streaming high quality audio and video directly in Telegram voice chats.
+BIHAR KE BAHUBALI MUSIC BOT is a high-performance Telegram music streaming bot that can play audio and video directly inside Telegram voice chats.
 
+Built using Python, Pyrogram and PyTgCalls, the bot provides smooth playback with advanced queue management.
+
+«⚡ “Jahan Bihar ka naam aaye, wahan power automatic badh jata hai.”»
+
+---
+
+Features
+
+- 🎧 High Quality Voice Chat Music Streaming
+- 📺 Video Playback Support
+- 🎶 Playlist Support
+- 📀 Advanced Queue System
+- 🔁 Auto Play
+- 🔍 YouTube Search Play
+- 📡 Direct Link Streaming
+- 🛠 Admin Control Commands
+
+---
+
+Supported Platforms
+
+This bot supports music streaming from:
+
+- YouTube
+- Spotify
+- SoundCloud
+- Apple Music
+- Resso
+- M3U8 Streams
+
+---
+
+Bot Commands
+
+Command| Description
+/play| Play music in voice chat
+/vplay| Play video in voice chat
+/pause| Pause playback
+/resume| Resume playback
+/skip| Skip track
+/stop| Stop music
+/queue| Show playlist
+/seek| Seek stream time
+
+---
+
+Installation
+
+Clone the repository
+
+git clone https://github.com/Biharkebahubali/Bihari-Telegram-Music-Bot.git
+cd Bihari-Telegram-Music-Bot
+
+Install dependencies
+
+pip install -U -r requirements.txt
+
+Rename environment file
+
+sample.env → .env
+
+Add credentials
+
+API_ID=
+API_HASH=
+BOT_TOKEN=
+OWNER_ID=
+LOGGER_ID=
+MONGO_URL=
+SESSION=
+
+Start the bot
+
+bash start
+
+---
+
+Owner
+
+<div align="center"><img src="https://files.catbox.moe/gkg963.png" width="160"/>Code Breaker
+
+<i>Creator of BIHAR KE BAHUBALI MUSIC BOT</i>
+
+</div>---
+
+Project Stats
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Biharkebahubali&show_icons=true&theme=dark"/></div>---
+
+<div align="center"><img src="https://files.catbox.moe/650wa9.png" width="750"/><br>🚀 Made with ❤️ in Bihar by Code Breaker
+
+</div>
 Built with Python, Pyrogram and PyTgCalls for fast and stable playback.
 
 ---
@@ -457,6 +549,7 @@ This project is licensed under the <b>MIT License</b> — see <a href="https://g
 ⭐ Enjoying the tunes? <b>Star the repo</b> — feedback keeps the rhythm going!
 
 </div>
+
 
 
 
