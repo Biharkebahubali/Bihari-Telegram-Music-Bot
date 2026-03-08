@@ -1,9 +1,122 @@
-<div align="center"><img src="https://files.catbox.moe/olz8o7.png" width="100%"><br><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&duration=3000&color=39FF14&center=true&vCenter=true&width=900&lines=BIHAR+KE+BAHUBALI+MUSIC+BOT;HIGH+QUALITY+TELEGRAM+VOICE+CHAT+STREAMING;POWERED+BY+PYTHON+PYROGRAM;CREATED+BY+CODE+BREAKER"></div>---
+<div align="center"><img src="https://files.catbox.moe/olz8o7.png" width="900"/><h1>BIHAR KE BAHUBALI MUSIC BOT</h1><p>High Quality Telegram Voice Chat Music Streaming Bot</p></div>---
 
-<div align="center"><img src="https://files.catbox.moe/twcqw5.jpg" width="700"></div>---
+<div align="center"><img src="https://files.catbox.moe/twcqw5.jpg" width="600"/></div>---
 
-<div align="center"><img src="https://img.shields.io/github/stars/Biharkebahubali/Bihari-Telegram-Music-Bot?style=for-the-badge&logo=github"><img src="https://img.shields.io/github/forks/Biharkebahubali/Bihari-Telegram-Music-Bot?style=for-the-badge&logo=github"><img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python"><img src="https://img.shields.io/badge/Telegram-MusicBot-blue?style=for-the-badge&logo=telegram"></div>---
+About The Project
 
+BIHAR KE BAHUBALI MUSIC BOT is a powerful Telegram music streaming bot that allows users to play audio and video directly in Telegram voice chats.
+
+Built with:
+
+- Python
+- Pyrogram
+- PyTgCalls
+
+This bot provides smooth playback and advanced queue management.
+
+---
+
+Bot Access
+
+Music Bot
+https://t.me/biharkebahubalimusic_bot
+
+Message Support Bot
+https://t.me/biharipleasehelpme_bot
+
+---
+
+Features
+
+- High Quality Voice Chat Streaming
+- Video Playback Support
+- Advanced Queue System
+- Playlist Support
+- Auto Play System
+- YouTube Search & Play
+- Direct Link Streaming
+- Admin Control Commands
+
+---
+
+Supported Platforms
+
+- YouTube
+- Spotify
+- SoundCloud
+- Apple Music
+- Resso
+- M3U8 Streams
+
+---
+
+Commands
+
+/play — Play music
+/vplay — Play video
+/pause — Pause playback
+/resume — Resume playback
+/skip — Skip track
+/stop — Stop music
+/queue — Show playlist
+/seek — Seek stream
+
+---
+
+Installation
+
+Clone repository
+
+git clone https://github.com/Biharkebahubali/Bihari-Telegram-Music-Bot.git
+cd Bihari-Telegram-Music-Bot
+
+Install dependencies
+
+pip install -U -r requirements.txt
+
+Configure environment
+
+sample.env → .env
+
+Add credentials
+
+API_ID=
+API_HASH=
+BOT_TOKEN=
+OWNER_ID=
+LOGGER_ID=
+MONGO_URL=
+SESSION=
+
+Start bot
+
+bash start
+
+---
+
+Owner
+
+<div align="center"><img src="https://files.catbox.moe/gkg963.png" width="150"/>Code Breaker
+
+</div>---
+
+Official Channels
+
+Updates Channel
+https://t.me/+YPzfRgZy_6Y5NDQ1
+
+Support Community
+https://t.me/+YPzfRgZy_6Y5NDQ1
+
+---
+
+<div align="center"><img src="https://files.catbox.moe/650wa9.png" width="700"/></div>---
+
+License
+
+This project is licensed under the MIT License.
+
+---
 About The Project
 
 BIHAR KE BAHUBALI MUSIC BOT is a powerful Telegram voice chat music streaming bot that can play high-quality audio and video directly inside Telegram group voice chats.
@@ -258,4 +371,5 @@ This project is licensed under the <b>MIT License</b> — see <a href="https://g
 ⭐ Enjoying the tunes? <b>Star the repo</b> — feedback keeps the rhythm going!
 
 </div>
+
 
