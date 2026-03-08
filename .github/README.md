@@ -1,20 +1,150 @@
 <div align="center">🎧 BIHAR KE BAHUBALI MUSIC BOT
 
-⚡ Ultra Fast Telegram Voice Chat Music Bot
-
-<p align="center">
-Stream High Quality Music & Video directly into Telegram Voice Chats
-</p><img src="https://files.catbox.moe/650wa9.png" width="850"><br><img src="https://img.shields.io/github/stars/Biharkebahubali/Bihari-Telegram-Music-Bot?style=for-the-badge&logo=github&color=yellow"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&color=00FF00&center=true&vCenter=true&width=900&lines=BIHAR+KE+BAHUBALI+MUSIC+BOT;TELEGRAM+VOICE+CHAT+STREAMING+BOT;POWERFUL+PYTHON+MUSIC+SYSTEM;MADE+WITH+❤️+IN+BIHAR"><img src="https://komarev.com/ghpvc/?username=Biharkebahubali&label=Repository+Views&color=blue&style=for-the-badge"/><img src="https://img.shields.io/github/stars/Biharkebahubali/Bihari-Telegram-Music-Bot?style=for-the-badge&logo=github&color=yellow"/>
 <img src="https://img.shields.io/github/forks/Biharkebahubali/Bihari-Telegram-Music-Bot?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/github/issues/Biharkebahubali/Bihari-Telegram-Music-Bot?style=for-the-badge"/>
 <img src="https://img.shields.io/github/license/Biharkebahubali/Bihari-Telegram-Music-Bot?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Written%20In-Python-blue?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/Platform-Telegram-blue?style=for-the-badge&logo=telegram"/></div>---
+<img src="https://img.shields.io/badge/Written%20In-Python-blue?style=for-the-badge&logo=python"/><img src="https://files.catbox.moe/650wa9.png" width="850"></div>---
 
-🧠 About The Project
+🚀 ABOUT THIS PROJECT
 
-Bihar Ke Bahubali Music Bot is a powerful Telegram Voice Chat Streaming Bot that allows users to stream high-quality music and video directly in Telegram group voice chats.
+Bihar Ke Bahubali Music Bot is an advanced Telegram Voice Chat Music Streaming Bot that allows users to play high quality music and video directly in Telegram group voice chats.
 
+This bot is built using powerful technologies like:
+
+- Python
+- Pyrogram
+- PyTgCalls
+- FFmpeg
+- MongoDB
+
+It supports multi-platform streaming, auto queue system, and ultra low latency playback.
+
+---
+
+🔥 FEATURES
+
+🎧 High Quality Audio Streaming
+
+🎬 Video Playback Support
+
+⚡ Advanced Queue System
+
+📜 Playlist Support
+
+🌍 Multi Platform Music Support
+
+👮 Admin Control Commands
+
+🔁 Autoplay Next Song
+
+🚀 Fast and Stable Performance
+
+---
+
+🌍 SUPPORTED PLATFORMS
+
+Platform| Supported
+YouTube| ✅
+Spotify| ✅
+SoundCloud| ✅
+Apple Music| ✅
+Resso| ✅
+Direct Audio Links| ✅
+
+---
+
+📸 BOT PREVIEW
+
+<div align="center"><img src="https://files.catbox.moe/650wa9.png" width="800"></div>---
+
+⚡ INSTALLATION
+
+1️⃣ Clone Repository
+
+git clone https://github.com/Biharkebahubali/Bihari-Telegram-Music-Bot.git
+
+cd Bihari-Telegram-Music-Bot
+
+---
+
+2️⃣ Install Requirements
+
+pip install -U -r requirements.txt
+
+---
+
+3️⃣ Setup Environment Variables
+
+Rename
+
+sample.env → .env
+
+Example configuration:
+
+API_ID=123456
+API_HASH=abcdef123456
+BOT_TOKEN=123456:ABC
+OWNER_ID=123456789
+LOGGER_ID=-100123456789
+MONGO_URL=mongodb+srv://
+SESSION=SESSION_STRING
+
+---
+
+🚀 RUN THE BOT
+
+bash start
+
+Bot will start streaming music in Telegram voice chats.
+
+---
+
+🎛 COMMANDS
+
+Command| Function
+/play| Play music
+/vplay| Play video
+/pause| Pause playback
+/resume| Resume playback
+/skip| Skip song
+/stop| Stop music
+/queue| Show playlist
+
+---
+
+📊 GITHUB STATS
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Biharkebahubali&show_icons=true&theme=radical"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biharkebahubali&layout=compact&theme=radical"></p>---
+
+🤝 CONTRIBUTING
+
+1. Fork the repository
+2. Create your branch
+3. Commit your changes
+4. Push to branch
+5. Create Pull Request
+
+---
+
+📜 LICENSE
+
+MIT License
+
+---
+
+👑 DEVELOPER
+
+<div align="center">Code Breaker
+
+Founder of BIHAR KE BAHUBALI MUSIC BOT
+
+Made with ❤️ in Bihar
+
+</div>---
+
+<div align="center">⭐ STAR THE REPOSITORY IF YOU LIKE THIS PROJECT
+
+</div>
 The bot is built using modern technologies like:
 
 - Python
@@ -151,3 +281,4 @@ Made with ❤️ in Bihar
 <div align="center">⭐ If you like this project, please star the repository
 
 </div>
+
