@@ -1,22 +1,173 @@
-<div align="center">⚡ BIHAR KE BAHUBALI MUSIC ENGINE ⚡
+<div align="center">⚡ BIHAR KE BAHUBALI TELEGRAM MUSIC BOT ⚡
 
 ██████╗ ██╗██╗  ██╗ █████╗ ██████╗     ██╗  ██╗███████╗
 ██╔══██╗██║██║  ██║██╔══██╗██╔══██╗    ██║ ██╔╝██╔════╝
-██████╔╝██║███████║███████║██████╔╝    █████╔╝ █████╗  
-██╔══██╗██║██╔══██║██╔══██║██╔══██╗    ██╔═██╗ ██╔══╝  
+██████╔╝██║███████║███████║██████╔╝    █████╔╝ █████╗
+██╔══██╗██║██╔══██║██╔══██║██╔══██╗    ██╔═██╗ ██╔══╝
 ██████╔╝██║██║  ██║██║  ██║██║  ██║    ██║  ██╗███████╗
 ╚═════╝ ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚══════╝
 
-🚀 TELEGRAM VOICE CHAT STREAMING SYSTEM
+🎧 Telegram Voice Chat Music Streaming Engine
 
-</div>---
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00FF00&center=true&vCenter=true&width=900&lines=BIHAR+KE+BAHUBALI+MUSIC+BOT;STREAM+MUSIC+IN+TELEGRAM+VOICE+CHAT;POWERED+BY+PYTHON+AND+PYTGCALLS;MADE+WITH+❤️+IN+BIHAR"><img src="https://img.shields.io/github/stars/Biharkebahubali/Bihari-Telegram-Music-Bot?style=for-the-badge&logo=github&color=yellow"/>
+<img src="https://img.shields.io/github/forks/Biharkebahubali/Bihari-Telegram-Music-Bot?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/license/Biharkebahubali/Bihari-Telegram-Music-Bot?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/Telegram-Bot-blue?style=for-the-badge&logo=telegram"/></div>---
 
-🧠 WHAT IS THIS?
+🧠 KA BA EE PROJECT?
 
-This isn't just another Telegram music bot.
+Bhai simple baat hai…
 
-This is a high-performance voice chat streaming engine built for speed, stability, and power.
+BIHAR KE BAHUBALI MUSIC BOT ek powerful Telegram bot hai jo Telegram voice chat me direct music aur video stream karta hai.
 
+Matlab group me voice chat chalu karo…
+aur bot se bolo /play song
+aur bas music bajna shuru.
+
+Low latency.
+High quality audio.
+Aur full control admins ke paas.
+
+Is bot ko banaya gaya hai powerful technologies se:
+
+- Python
+- Pyrogram
+- PyTgCalls
+- FFmpeg
+- MongoDB
+
+---
+
+🔥 BOT KI TAAKAT
+
+⚡ Telegram voice chat me real-time music streaming
+
+🎧 High quality audio playback
+
+🎬 Video streaming support
+
+🌍 Multiple music platforms support
+
+📜 Smart queue system
+
+🔁 Auto next song
+
+👮 Admin control commands
+
+🚀 Fast aur stable system
+
+---
+
+🌍 KAHA KAHA SE GAANA BAJEGA
+
+Platform| Support
+YouTube| ✔
+Spotify| ✔
+SoundCloud| ✔
+Apple Music| ✔
+Resso| ✔
+Direct Audio Links| ✔
+
+---
+
+⚙ SYSTEM REQUIREMENTS
+
+Bot chalane ke liye chahiye:
+
+Python 3.9+
+
+FFmpeg
+
+MongoDB
+
+Telegram API
+
+---
+
+⚡ INSTALLATION
+
+Repository clone karo
+
+git clone https://github.com/Biharkebahubali/Bihari-Telegram-Music-Bot.git
+
+Folder me jao
+
+cd Bihari-Telegram-Music-Bot
+
+Dependencies install karo
+
+pip install -U -r requirements.txt
+
+---
+
+🔑 CONFIGURATION
+
+Environment file rename karo
+
+sample.env → .env
+
+Fir ye values bhar do
+
+API_ID=your_api_id
+API_HASH=your_api_hash
+BOT_TOKEN=your_bot_token
+OWNER_ID=your_telegram_id
+LOGGER_ID=log_group_id
+MONGO_URL=mongodb_url
+SESSION=session_string
+
+---
+
+🚀 BOT START KARO
+
+bash start
+
+Bot start hote hi Telegram voice chat me music play karega.
+
+---
+
+🎛 BOT COMMANDS
+
+Command| Kaam
+/play| Gaana bajao
+/vplay| Video play karo
+/pause| Music rok do
+/resume| Dubara chalu karo
+/skip| Next gaana
+/stop| Music band
+/queue| Playlist dikhao
+
+---
+
+📂 PROJECT STRUCTURE
+
+Bihari-Telegram-Music-Bot
+│
+├── bot
+├── plugins
+├── config
+├── utils
+├── database
+└── start
+
+---
+
+👑 DEVELOPER
+
+Vikram Laheri
+
+Founder of
+
+BIHAR KE BAHUBALI PROJECT
+
+📍 Bihar, India
+
+---
+
+<div align="center">⭐ Agar project pasand aaye to repo ko star zaroor dena
+
+</div>
 The BIHAR KE BAHUBALI Music Engine can stream music and video directly inside Telegram voice chats with low latency and high quality audio processing.
 
 Powered by:
@@ -157,3 +308,4 @@ Built with passion from Bihar, India.
 <div align="center">⭐ If you like this project — drop a star.
 
 </div>
+
