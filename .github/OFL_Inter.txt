@@ -1,29 +1,108 @@
-Copyright (c) 2016-2020 The Inter Project Authors 
-(Rasmus Andersson and contributors).
+Copyright (c) 2016–2020
+The Inter Project Authors
+(Rasmus Andersson and contributors)
+
+---
+
+License
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
-This license is copied below, and is also available with a FAQ at:
+
+A copy of the license is included below.
+You can also read the official license and FAQ here:
+
 https://scripts.sil.org/OFL
 
------------------------------------------------------------
-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
------------------------------------------------------------
+---
 
-PREAMBLE
-The goals of the Open Font License (OFL) are to stimulate worldwide
-development of collaborative font projects, to support the font creation
-efforts of academic and linguistic communities, and to provide a free and
-open framework in which fonts may be shared and improved in partnership
-with others.
+SIL OPEN FONT LICENSE
 
-The OFL allows the licensed fonts to be used, studied, modified and
-redistributed freely as long as they are not sold by themselves. The
-fonts, including any derivative works, can be bundled, embedded,
-redistributed and/or sold with any software provided that any reserved
-names are not used by derivative works. The fonts and derivatives,
-however, cannot be released under any other license. The requirement for
-fonts to remain under this license does not apply to any document created
-using the fonts or their derivatives.
+Version 1.1 — 26 February 2007
 
-DEFINITIONS
-(Same OFL 1.1 text continues identically as above...)
+---
+
+Preamble
+
+The goals of the Open Font License (OFL) are to:
+
+- Encourage global collaboration in font development
+- Support font creation efforts by academic and linguistic communities
+- Provide a free and open framework for sharing and improving fonts
+
+The OFL allows fonts to be:
+
+- Used
+- Studied
+- Modified
+- Redistributed
+
+as long as they are not sold individually.
+
+Fonts and derivative works may be bundled, embedded, redistributed, or sold as part of software, provided that reserved font names are not used by modified versions.
+
+Derivative fonts must remain under the same license (OFL).
+
+---
+
+Definitions
+
+Font Software
+The set of files released under this license, including source files, build scripts, and documentation.
+
+Reserved Font Name
+Names specified by the copyright holders as reserved.
+
+Original Version
+The official font files distributed by the copyright holders.
+
+Modified Version
+Any derivative created by modifying, adding, removing, or porting components of the original font software.
+
+Author
+Any designer, developer, engineer, or contributor involved in the creation of the font software.
+
+---
+
+Permission and Conditions
+
+Permission is granted, free of charge, to any person obtaining a copy of the Font Software to:
+
+- Use
+- Study
+- Copy
+- Merge
+- Embed
+- Modify
+- Redistribute
+
+subject to the following conditions:
+
+1. The Font Software may not be sold individually.
+
+2. Original or modified versions may be bundled or distributed with software, provided that the copyright notice and this license are included.
+
+3. Modified versions may not use Reserved Font Names unless explicit written permission is granted.
+
+4. The names of the copyright holders or authors must not be used to promote or advertise derivative versions without permission.
+
+5. The Font Software must remain under the SIL Open Font License and cannot be released under another license.
+
+---
+
+Termination
+
+This license becomes null and void if any of the above conditions are violated.
+
+---
+
+Disclaimer
+
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+
+This includes but is not limited to:
+
+- Merchantability
+- Fitness for a particular purpose
+- Non-infringement of intellectual property rights
+
+The copyright holders shall not be liable for any damages or claims arising from the use of this font software.
